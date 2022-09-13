@@ -1,6 +1,6 @@
 # 🌱 Hi, I’m John Alejandro 
 
-## 🔭 Tecnologies: 
+## 🔭 Skills: 
 - HTML
 - CSS
 - JS
@@ -12,6 +12,12 @@
 - MariaDB
 - Mondo DB
 - Docker
+- Git
+- GitHub
+- API rest
+
+## 😄 Linkedin
+https://www.linkedin.com/in/johnalejandro/
 
 <!--
 - 🔭 I’m currently working on ...
