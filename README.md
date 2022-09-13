@@ -1,10 +1,19 @@
-# Hi, I’m John Alejandro 
+# 🌱 Hi, I’m John Alejandro 
+
+## 🔭 Tecnologies: 
+- HTML
+- CSS
+- JS
+- React js 
+- NodeJs
+- PHP
+- Laravel
+- Mysql
+- MariaDB
+- Mondo DB
+- Docker
 
 <!--
-**johnalejandrohr/johnalejandrohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
