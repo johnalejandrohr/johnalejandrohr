@@ -1,5 +1,3 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C4E16AQHgcT-k_0jckQ/profile-displaybackgroundimage-shrink_350_1400/0/1661111549472?e=1668643200&v=beta&t=oK98o83cN3qGBhghSgOkr64S0B82qWv0QC5yO2AdYMc)
-
 # 🌱 Hi, I’m John Alejandro 
 
 ## 🔭 Skills: 
